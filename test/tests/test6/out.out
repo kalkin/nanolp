@@ -1,5 +1,0 @@
-int abs(int x) {
-	// комментарий
-	if (x<0) return -x;
-	else return x;
-}
